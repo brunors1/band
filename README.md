@@ -17,5 +17,5 @@ O projeto New Wear possui a seguinte estrutura de diretórios:
 
 - `assets`: Contém as imagens utilizadas no site.
 - `js`: Contém os scripts de javascript.
-- `styles`: Contém arquivos de estilo CSS personalizados.
+- `css`: Contém arquivos de estilo CSS personalizados.
 
